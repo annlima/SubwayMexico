@@ -40,7 +40,7 @@ python tu_script.py
 
 ## Estructura del Proyecto
 
-- `tu_script.py`: Contiene el código principal del sistema.
+- `main.py`: Contiene el código principal del sistema.
 - `InterfazMetro.py`: Contiene la definición de la interfaz de usuario usando PyQt5.
 - `Aristas.txt`: Archivo de texto que contiene la información de las aristas del metro.
 - `Vertices.txt`: Archivo de texto que contiene la información de las estaciones del metro.
