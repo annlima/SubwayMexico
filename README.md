@@ -45,8 +45,6 @@ python main.py
 - `Aristas.txt`: Archivo de texto que contiene la información de las aristas del metro.
 - `Vertices.txt`: Archivo de texto que contiene la información de las estaciones del metro.
 
-6. Crea un pull request desde tu repositorio en GitHub.
-
 ## Autor
 
 - Andrea Lima Blanca
