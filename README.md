@@ -15,17 +15,17 @@ Este sistema se basa en Python y utiliza la biblioteca PyQt5 para la interfaz de
 
 1. Clona este repositorio en tu máquina local:
 ```
-git clone https://github.com/tu_usuario/tu_proyecto.git
+git clone https://github.com/annlima/SubwayMexico.git
 ```
 
 2. Abre una terminal y navega al directorio del proyecto:
 ```
-cd tu_proyecto
+cd SubwayMexico
 ```
 
 3. Ejecuta el sistema:
 ```
-python tu_script.py
+python main.py
 ```
 
 ## Uso
@@ -44,8 +44,6 @@ python tu_script.py
 - `InterfazMetro.py`: Contiene la definición de la interfaz de usuario usando PyQt5.
 - `Aristas.txt`: Archivo de texto que contiene la información de las aristas del metro.
 - `Vertices.txt`: Archivo de texto que contiene la información de las estaciones del metro.
-- `lineas.txt`: Archivo de texto que contiene la información de las líneas del metro.
-
 
 6. Crea un pull request desde tu repositorio en GitHub.
 
